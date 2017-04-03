@@ -1,0 +1,8 @@
+OUCD wrong
+technology in sections + icons of tools and no text: Deployment, architecture, project management
+explain why using the laravel framework and important stuff, explain architecture more in detail
+RUP only together with Scrumming on Jira and not at the beginning
+why use RUP and scrumming
+MVC before demo together with Laravel
+Repeating technology slide with deployment 
+integrate feature file into testing methodology
